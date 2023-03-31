@@ -2,5 +2,9 @@
     "documentId": "875a0fc92dced75918d58742",
     "outputFormat": "urdf",
     "robotName": "sassa",
-    "assemblyName": "urdf"
+    "assemblyName": "urdf",
+    "jointMaxEffort": {
+        "default": 9
+    },
+    "jointMaxVelocity": 20,
 }

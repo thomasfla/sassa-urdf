@@ -396,7 +396,7 @@
 <parent link="upperleg_sasm" />
 <child link="lowerleg_sasm" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-2.35619" upper="2.35619"/>
+<limit effort="9" velocity="15" lower="-2.35619" upper="2.35619"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -405,7 +405,7 @@
 <parent link="helbow_sasm" />
 <child link="upperleg_sasm" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-1.5708" upper="1.5708"/>
+<limit effort="9" velocity="15" lower="-1.5708" upper="1.5708"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -414,7 +414,7 @@
 <parent link="body_sasm" />
 <child link="helbow_sasm" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-0.785398" upper="0.785398"/>
+<limit effort="9" velocity="15" lower="-0.785398" upper="0.785398"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -663,7 +663,7 @@
 <parent link="upperleg_sasm_2" />
 <child link="lowerleg_sasm_2" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-2.35619" upper="2.35619"/>
+<limit effort="9" velocity="15" lower="-2.35619" upper="2.35619"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -672,7 +672,7 @@
 <parent link="helbow_sasm_2" />
 <child link="upperleg_sasm_2" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-1.5708" upper="1.5708"/>
+<limit effort="9" velocity="15" lower="-1.5708" upper="1.5708"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -681,7 +681,7 @@
 <parent link="body_sasm" />
 <child link="helbow_sasm_2" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-0.785398" upper="0.785398"/>
+<limit effort="9" velocity="15" lower="-0.785398" upper="0.785398"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -930,7 +930,7 @@
 <parent link="upperleg_sasm_3" />
 <child link="lowerleg_sasm_3" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-2.35619" upper="2.35619"/>
+<limit effort="9" velocity="15" lower="-2.35619" upper="2.35619"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -939,7 +939,7 @@
 <parent link="helbow_sasm_3" />
 <child link="upperleg_sasm_3" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-1.5708" upper="1.5708"/>
+<limit effort="9" velocity="15" lower="-1.5708" upper="1.5708"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -948,7 +948,7 @@
 <parent link="body_sasm" />
 <child link="helbow_sasm_3" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-0.785398" upper="0.785398"/>
+<limit effort="9" velocity="15" lower="-0.785398" upper="0.785398"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -1197,7 +1197,7 @@
 <parent link="upperleg_sasm_4" />
 <child link="lowerleg_sasm_4" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-2.35619" upper="2.35619"/>
+<limit effort="9" velocity="15" lower="-2.35619" upper="2.35619"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -1206,7 +1206,7 @@
 <parent link="helbow_sasm_4" />
 <child link="upperleg_sasm_4" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-1.5708" upper="1.5708"/>
+<limit effort="9" velocity="15" lower="-1.5708" upper="1.5708"/>
 <joint_properties friction="0.0"/>
 </joint>
 
@@ -1215,7 +1215,7 @@
 <parent link="body_sasm" />
 <child link="helbow_sasm_4" />
 <axis xyz="0 0 1"/>
-<limit effort="1" velocity="20" lower="-0.785398" upper="0.785398"/>
+<limit effort="9" velocity="15" lower="-0.785398" upper="0.785398"/>
 <joint_properties friction="0.0"/>
 </joint>
 
